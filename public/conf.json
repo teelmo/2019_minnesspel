@@ -1,0 +1,12 @@
+{
+  "mainfile": "dataviz.html",
+  "js": [
+    "js/2019_minnesspel.3ade639d1d9ae7cfca87.min.js"
+  ],
+  "css": [
+    "css/2019_minnesspel.64e05250128b33fccf80.min.css",
+    "font/fonts.css"
+  ],
+  "darkMode": true,
+  "externalContent": true
+}
